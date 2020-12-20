@@ -19,5 +19,8 @@
   "license": "MIT",
   "dependencies": {
     "@wazabix/palindrome": "^1.1.2"
-  }
+  },
+
+  "homepage": "https://github.com/wazabix-BM/palindrome-detector#readme",
+  "repository": "https://github.com/wazabix-BM/palindrome-detector"
 }
