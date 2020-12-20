@@ -35,9 +35,10 @@ console.log ( phrase.getPalindromes () ); // No palindromes found
 phrase.content = 'Tu l\'as trop écrasé César ce Port-Salut';
 console.log ( '\n' + phrase.content ); // Tu l'as trop écrasé César ce Port-Salut
 console.log ( phrase.isPalindrome () ); // true
+```
 
-// -----------------------------------------------------
-
+-----------------------------------------------------------------------
+```js
 const { Phrase } = require ( '@wazabix/palindrome-detector' ),
 phrase1 = new Phrase ( 'J\'adore faire du kayak !! Il faut beaucoup de level !' );
 phrase2 = new Phrase ( 'Dennis, no misfit can act if Simon sinned' );
