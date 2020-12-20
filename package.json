@@ -1,0 +1,23 @@
+{
+  "name": "palindrome-detector",
+  "version": "1.0.0",
+  "description": "Simple JS library to detect all palindromes in a sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "palindrome",
+    "number",
+    "sentence",
+    "phrase",
+    "palindrome-detector",
+    "@wazabix"
+  ],
+  "author": "wazabix",
+  "license": "MIT",
+  "dependencies": {
+    "@wazabix/palindrome": "^1.1.2"
+  }
+}
