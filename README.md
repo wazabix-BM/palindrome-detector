@@ -16,7 +16,7 @@ $ npm i @wazabix/palindrome-detector
 # API
 
 * **getPalindromes ()**
-    * This method makes it possible to obtain all the palindromes present in the sentence. It is based on the code of this [`package`](https://www.npmjs.com/package/@wazabix/palindrome)
+    * This method makes it possible to obtain all the palindromes present in the sentence. It is based on the code of this [package](https://www.npmjs.com/package/@wazabix/palindrome)
 
 * **isPalindrome()**
     * This method returns true if the sentence is a palindrome sentence or false if it is not
@@ -47,4 +47,4 @@ console.log ( phrase1.getPalindromes () ); // [ 'kayak', 'level' ]
 
 console.log ( '\n' + phrase2.content ); // Dennis, no misfit can act if Simon sinned
 console.log ( phrase2.isPalindrome () ); // true
-```"# palindrome-detector" 
+```
